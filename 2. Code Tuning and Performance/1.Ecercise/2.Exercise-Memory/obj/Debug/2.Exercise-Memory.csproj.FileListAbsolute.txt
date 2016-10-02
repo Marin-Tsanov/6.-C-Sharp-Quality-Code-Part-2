@@ -1,0 +1,5 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 6 Quality code Part 2\2. Code Tuning and Performance\1.Ecercise\2.Exercise-Memory\bin\Debug\2.Exercise-Memory.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 6 Quality code Part 2\2. Code Tuning and Performance\1.Ecercise\2.Exercise-Memory\bin\Debug\2.Exercise-Memory.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 6 Quality code Part 2\2. Code Tuning and Performance\1.Ecercise\2.Exercise-Memory\bin\Debug\2.Exercise-Memory.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 6 Quality code Part 2\2. Code Tuning and Performance\1.Ecercise\2.Exercise-Memory\obj\Debug\2.Exercise-Memory.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 6 Quality code Part 2\2. Code Tuning and Performance\1.Ecercise\2.Exercise-Memory\obj\Debug\2.Exercise-Memory.pdb
